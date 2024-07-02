@@ -1,6 +1,6 @@
 ## ANATHEMA
 
-Anathema is the dark, weird magic of the Bonelands, in contrast to *sorcery*, which is usually simpler, less costly, and less grand. Anathema centers around perversions of life and death, and feeds on souls as fuel.
+Anathema is the dark, weird magic of the Bonelands, in contrast to **sorcery**, which is usually simpler, less costly, and less grand. Anathema centers around perversions of life and death, and feeds on souls as fuel.
 
 It is an esoteric and occult practice. No knowledge on Anathema is found in the cities, towns, villages, or pastures. Anathemists live isolated from civilization save for raids to harvest souls.
 
@@ -37,3 +37,5 @@ As their souls are no longer with their brains, but they live on, they are undea
 Through contingent Anathemic rituals and intricate funerary rites, Revenants die, haunt their lair while their flesh--as fleshy undead are very unfashionable in the Bonelands for their stench and look, and then bind themselves to their own corpses. After their return from death, they require no sustenance of any kind.
 
 Revenants retain the highest amount of sanity out of most High Anathemists. Their soul remains their own, their fear of death conquered. They sometimes regret the harm they did in their pursuit of power and immortality, and swear off Anathema altogether. Revenants are usually the most reasonable, reliable, and stable High Anathemists.
+
+As for durability, revenants are not *significantly* more durable or magically talented than the average undead. This makes revenance unattractive to more ambitious anathemists. Revenance is the most straightforward--albeit not the easiest--path to sapient undeath. 
