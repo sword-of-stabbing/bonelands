@@ -14,7 +14,7 @@ Most of their work is devoted to devising methods of efficiently collecting, sto
 
 ### CHEATING DEATH
 
-Anathemists either gain undeath or die in the pursuit. Becoming undead makes one a High Anathemist. Here are a few common types:
+Most anathemists either achieve undeath or die in the pursuit. Becoming undead makes one a High Anathemist. Here are a few common types:
 
 #### LICH
 
@@ -34,4 +34,6 @@ As their souls are no longer with their brains, but they live on, they are undea
 
 ####  REVENANT
 
-Through contingent Anathemic rituals and intricate funerary rites, Revenants die, decay for a while, and then bind themselves to their own corpses. After their return from death, they require no sustenance of any kind.
+Through contingent Anathemic rituals and intricate funerary rites, Revenants die, haunt their lair while their flesh--as fleshy undead are very unfashionable in the Bonelands for their stench and look, and then bind themselves to their own corpses. After their return from death, they require no sustenance of any kind.
+
+Revenants retain the highest amount of sanity out of most High Anathemists. Their soul remains their own, their fear of death conquered. They sometimes regret the harm they did in their pursuit of power and immortality, and swear off Anathema altogether. Revenants are usually the most reasonable, reliable, and stable High Anathemists.
